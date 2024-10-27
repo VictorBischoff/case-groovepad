@@ -1,0 +1,25 @@
+{
+  "name": "case-groovepad",
+  "version": "1.0.0",
+  "description": "An online sampler, based on the design of the AKAI MPC series",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VictorBischoff/case-groovepad.git"
+  },
+  "keywords": [
+    "sampler"
+  ],
+  "author": "Victor Bischoff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VictorBischoff/case-groovepad/issues"
+  },
+  "homepage": "https://github.com/VictorBischoff/case-groovepad#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
